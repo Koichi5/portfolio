@@ -1,7 +1,4 @@
-import AboutProfile from "../molecules/about/about_profile";
-import AboutMyHistory from "../molecules/about/about_my_history";
 import Title from "../atoms/title";
-import CardWithDialog from "../atoms/card_with_dialog";
 import CardGrid from "../molecules/works/works_card_grid";
 
 const Works = () => {

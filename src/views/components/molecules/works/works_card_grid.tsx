@@ -1,4 +1,3 @@
-import React from "react";
 import Grid from "@material-ui/core/Grid";
 import CardWithDialog from "../../atoms/card_with_dialog";
 import ImageLink from "../../atoms/image_link";

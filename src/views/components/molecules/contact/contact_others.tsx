@@ -1,6 +1,5 @@
 import { makeStyles } from "@material-ui/core/styles";
 import SubTitle from "../../atoms/sub_title";
-import ContactEmailTable from "./contact_email_table";
 import ContactOthersTable from "./contact_others_table";
 
 const useStyles = makeStyles((theme) => ({
