@@ -10,6 +10,7 @@ const useStyles = makeStyles((theme) => ({
   title: {
     flexGrow: 1,
     textAlign: "left",
+    fontWeight: "bold",
   },
   button: {
     marginLeft: theme.spacing(1),
@@ -29,7 +30,7 @@ function Header() {
       <AppBar position="static" color="transparent">
         <Toolbar>
           <div className={classes.title}>
-            <Button color="inherit">Koichi's Portfolio</Button>
+            <p color="inherit">Koichi's Portfolio</p>
           </div>
           <Button color="inherit" className={classes.button}>
             HOME
