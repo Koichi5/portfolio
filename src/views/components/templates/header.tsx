@@ -29,7 +29,7 @@ function Header() {
       <AppBar position="static" color="transparent">
         <Toolbar>
           <div className={classes.title}>
-            <Button color="inherit">My Header</Button>
+            <Button color="inherit">Koichi's Portfolio</Button>
           </div>
           <Button color="inherit" className={classes.button}>
             HOME
