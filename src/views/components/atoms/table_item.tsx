@@ -1,4 +1,3 @@
-
 interface AboutTableItemProps {
     keyValue: string;
     Value: any;

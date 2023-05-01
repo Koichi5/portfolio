@@ -23,4 +23,3 @@ function Title(props: TitleProps) {
 }
 
 export default Title;
-
