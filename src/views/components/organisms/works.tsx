@@ -1,11 +1,11 @@
 import Title from "../atoms/title";
-import CardGrid from "../molecules/works/works_card_grid";
+import WorksCardGrid from "../molecules/works/works_card_grid";
 
 const Works = () => {
   return (
     <div id="works">
       <Title text={"WORKS"} />
-      <CardGrid />
+      <WorksCardGrid />
       </div>
   );
 };

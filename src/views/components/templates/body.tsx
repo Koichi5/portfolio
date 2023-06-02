@@ -5,6 +5,7 @@ import Skills from "../organisms/skills";
 import Title from "../atoms/title";
 import Works from "../organisms/works";
 import Contact from "../organisms/contact";
+import Contests from "../organisms/contests";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -35,6 +36,7 @@ function Body() {
       <About />
       <Skills />
       <Works />
+      <Contests />
       <Contact />
     </div>
   );

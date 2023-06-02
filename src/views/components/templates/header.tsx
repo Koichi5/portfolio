@@ -51,6 +51,11 @@ function Header() {
             </a>
           </Button>
           <Button color="inherit" className={classes.button}>
+            <a href="#contests" style={{ color: "black" }}>
+              CONTESTS
+            </a>
+          </Button>
+          <Button color="inherit" className={classes.button}>
             <a href="#contact" style={{ color: "black" }}>
               CONTACT
             </a>

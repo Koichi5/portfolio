@@ -17,9 +17,10 @@ import CloseIcon from "@material-ui/icons/Close";
 const useStyles = makeStyles((theme) => ({
   root: {
     maxWidth: 500,
+    margin: 30,
   },
   media: {
-    height: 350,
+    height: 350,    
   },
   dialoigMedia: {
     height: 400,
@@ -66,8 +67,8 @@ interface CardProps {
   firstContent: string;
   secondContentTitle: string;
   secondContent: string;
-  thirdContentTitle: string;
-  thirdContent: string;
+  thirdContentTitle?: string;
+  thirdContent?: string;
   fourthContentTitle?: string;
   fourthContent?: any;
 }
@@ -99,7 +100,7 @@ function CardWithDialog({
   return (
     <Card className={classes.root}>
       <CardActionArea onClick={handleOpen}>
-        <CardMedia className={classes.media} image={imageSrc} title={title} />
+        <CardMedia className={classes.media} component="img" src={imageSrc} title={title} />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
             {title}
