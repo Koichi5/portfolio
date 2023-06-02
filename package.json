@@ -1,4 +1,5 @@
 {
+  "homepage": "https://koichi5.github.io/portfolio/",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -6,12 +7,12 @@
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
-    "build": "vite build && cp -r dist docs",                   
+    "build": "vite build && cp -r dist docs",
     "rebuild": "vite build && rm -R docs && cp -r dist docs",
     "git": "git add . && git commit && git push origin main",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.10.8",
@@ -34,6 +35,5 @@
     "gh-pages": "^5.0.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
-  },
-  "homepage": "https://koichi5.github.io/portfolio/"
+  }
 }
