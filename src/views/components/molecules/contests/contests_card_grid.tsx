@@ -9,7 +9,7 @@ const cards = [
     attribute: "ハッカソン",
     firstContentTitle: "DETAIL",
     firstContent:
-      "2023年2月26日から28日にかけて行われた「関西ビギナーズハッカソン」において開発した課題解決プラットフォームアプリ",
+      "2023年2月26日から28日にかけて行われた「関西ビギナーズハッカソン」において開発した課題解決プラットフォームアプリ \n 最終的に優良賞をいただきました。",
     secondContentTitle: "POINT",
     secondContent:
       "テックリードとして要件定義、データベース設計、UI,UX設計、コーディングに加え、メンバーにFlutterの基礎からFirebase連携まで教えたり、機能ごとにメンバーに役割を割り振ったり、GitHubの使用方法を教えたりなどしました。",
@@ -64,8 +64,8 @@ const cards = [
           link_target={
             "https://kutc-my.sharepoint.com/:p:/g/personal/k020916_kansai-u_ac_jp/EVG1X91_NWFIoYKmlei_aG4BNBu1R3ybH6z31a3IiI12Wg?e=5sGtRP"
           }
-          image_source={"src/assets/google_drive_logo.png"}
-          image_altnative={"chathub_google_drive"}
+          image_source={"https://lh3.googleusercontent.com/pw/AIL4fc8Dmz4ogK2nWyfyO10CXNl7e-5EtKSDC2VvoRCu8YOeu0NM4nf_8A2Tezu3F8lilFLEyA6KBd_H0kYNG9aLmLO9dsgBi5SEtzQBhl6Yd5kDAuFwj4Nk7n92sebBzRh0cmpLVbKSCKPpGVlxrY_Yqcq2=w225-h225-s-no?authuser=0"}
+          image_altnative={"bussiness_contest_google_drive"}
           image_width={40}
           image_height={40}
         />
