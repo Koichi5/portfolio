@@ -4,7 +4,7 @@ import ImageLink from "../../atoms/image_link";
 
 const cards = [
   {
-    imageSrc: "src/assets/cathub_logo.png",
+    imageSrc: "assets/cathub_logo.png",
     title: "ChatHub",
     attribute: "ハッカソン",
     firstContentTitle: "DETAIL",
@@ -20,7 +20,7 @@ const cards = [
       <div style={{ alignItems: "center", display: "flex" }}>
         <ImageLink
           link_target={"https://github.com/SyuMurase/Cathub"}
-          image_source={"src/assets/github_logo.png"}
+          image_source={"/github_logo.png"}
           image_altnative={"chathub_github"}
           image_width={40}
           image_height={40}
@@ -29,7 +29,7 @@ const cards = [
           link_target={
             "https://www.figma.com/file/AB066ffbU9ZaoM8YAFmKna/ChatHub?node-id=51995%3A5326&t=vCDGDyJLM9Jwcpan-1"
           }
-          image_source={"src/assets/figma_logo.png"}
+          image_source={"./figma_logo.png"}
           image_altnative={"chathub_figma"}
           image_width={40}
           image_height={40}
@@ -38,7 +38,7 @@ const cards = [
           link_target={
             "https://drive.google.com/file/d/1vXHEch6AGc4khRD7W-x8Sf71bcri2c0Q/view?usp=share_link"
           }
-          image_source={"src/assets/google_drive_logo.png"}
+          image_source={"/google_drive_logo.png"}
           image_altnative={"chathub_google_drive"}
           image_width={40}
           image_height={40}
