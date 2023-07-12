@@ -4,7 +4,7 @@ import ImageLink from "../../atoms/image_link";
 
 const cards = [
   {
-    imageSrc: "assets/cathub_logo.png",
+    imageSrc: "https://lh3.googleusercontent.com/pw/AIL4fc8Ec79zgvgci1F14I9M8W5o1Kx41vqfJORKf2RQi35ycZwRDbsBFMIT3cRH3f2C74sBpjdOnq5c_D_xxD4UFPtNsMwmLTSZ2y0_ZRdaOoY0XPlFIGqF5HoCEAJkZlBe5OQXWhNQ2ptUO66ER9MlPTU0=w500-h500-s-no?authuser=0",
     title: "ChatHub",
     attribute: "ハッカソン",
     firstContentTitle: "DETAIL",
@@ -20,7 +20,7 @@ const cards = [
       <div style={{ alignItems: "center", display: "flex" }}>
         <ImageLink
           link_target={"https://github.com/SyuMurase/Cathub"}
-          image_source={"/github_logo.png"}
+          image_source={"https://lh3.googleusercontent.com/pw/AIL4fc9E5vZ_Zwihi3gcZfnfc6aL4IBrMMnWsFkFuaJZAfu6eEhoyojti01jZQtV5e9ecf9E73pNsYWDOMqkFiOEtq3dxrSfGnZTZCQ8-1-cLd__fR2Pwh8IMaHlP0PGSYlYGSCK03kzuc46Zz8TlSE0gbRa=w512-h512-s-no?authuser=0"}
           image_altnative={"chathub_github"}
           image_width={40}
           image_height={40}
@@ -29,7 +29,7 @@ const cards = [
           link_target={
             "https://www.figma.com/file/AB066ffbU9ZaoM8YAFmKna/ChatHub?node-id=51995%3A5326&t=vCDGDyJLM9Jwcpan-1"
           }
-          image_source={"./figma_logo.png"}
+          image_source={"https://lh3.googleusercontent.com/pw/AIL4fc9hCfzk7qFCGeIvgtP4gbjF4bXnqSs99YVhOCGiYnJD-fV2Y9LCtBg1Nwi8uHsSwZRN-1iAsvpm_iWAHsqJ6K-_d2iVxLoDtfWmD5E_7Jjp0lENf8YepKxUJDqeCxDEUQxlrpVlLId8m4aiQcPmg6RY=w512-h512-s-no?authuser=0"}
           image_altnative={"chathub_figma"}
           image_width={40}
           image_height={40}
@@ -38,7 +38,7 @@ const cards = [
           link_target={
             "https://drive.google.com/file/d/1vXHEch6AGc4khRD7W-x8Sf71bcri2c0Q/view?usp=share_link"
           }
-          image_source={"/google_drive_logo.png"}
+          image_source={"https://lh3.googleusercontent.com/pw/AIL4fc8Dmz4ogK2nWyfyO10CXNl7e-5EtKSDC2VvoRCu8YOeu0NM4nf_8A2Tezu3F8lilFLEyA6KBd_H0kYNG9aLmLO9dsgBi5SEtzQBhl6Yd5kDAuFwj4Nk7n92sebBzRh0cmpLVbKSCKPpGVlxrY_Yqcq2=w225-h225-s-no?authuser=0"}
           image_altnative={"chathub_google_drive"}
           image_width={40}
           image_height={40}
@@ -48,7 +48,7 @@ const cards = [
   },
 
   {
-    imageSrc: "src/assets/r3koushien_report.png",
+    imageSrc: "https://lh3.googleusercontent.com/pw/AIL4fc8-7E-PfjVUDteYcLzYwSdv_5uEn9GmEctWmj5O92h9s09CBqE7-raN0zLEBHypOlxHyLvqndFSMWN0bOXiM_nk5_zeVwC6X9LjA_6zY3ttTuy1qnnlUDXSM2P8e7w8OIQeRH7gNEEL5xPPcqAT6BfU=w940-h788-s-no?authuser=0",
     title: "起業家甲子園",
     attribute: "ビジネスコンテスト",
     firstContentTitle: "DETAIL",
@@ -73,8 +73,8 @@ const cards = [
           link_target={
             "https://previewer.adalo.com/163bd807-8145-4710-8247-86e4221a3b74"
           }
-          image_source={"src/assets/link_logo.png"}
-          image_altnative={"chathub_google_drive"}
+          image_source={"https://lh3.googleusercontent.com/pw/AIL4fc8ueIbkEmUpFM-XE0GJ_2G33criPWs6DvDuxmkces05idEVnyaQMRkfdlEzwBMow7UP0_QVgq99bvomxHFnU-yXq7Fi_yr1yKuJpi_aVkP3fOArF_snkBNrPblhYIBpKOlaZrI6Fa_q6tsJXMSEmymO=w512-h512-s-no?authuser=0"}
+          image_altnative={"chathub_link"}
           image_width={40}
           image_height={40}
         />
