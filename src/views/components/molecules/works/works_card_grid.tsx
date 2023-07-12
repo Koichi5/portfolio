@@ -22,7 +22,7 @@ const cards = [
           link_target={
             "https://play.google.com/store/apps/details?id=com.koichi.techjourney"
           }
-          image_source={"src/assets/android_logo.png"}
+          image_source={"/src/assets/android_logo.png"}
           image_altnative={"tech_journey_play_store"}
           image_width={40}
           image_height={40}
