@@ -71,6 +71,7 @@ interface CardProps {
   thirdContent?: string;
   fourthContentTitle?: string;
   fourthContent?: any;
+  fifthContent?: any;
 }
 
 function CardWithDialog({
@@ -85,6 +86,7 @@ function CardWithDialog({
   thirdContent,
   fourthContentTitle,
   fourthContent,
+  fifthContent,
 }: CardProps) {
   const classes = useStyles();
   const [open, setOpen] = useState(false);
@@ -166,6 +168,14 @@ function CardWithDialog({
             component="p"
           >
             {fourthContent}
+          </Typography>
+          <Typography
+            className={classes.content}
+            variant="body1"
+            color="textSecondary"
+            component="p"
+          >
+            {fifthContent}
           </Typography>
         </DialogContent>
         <DialogActions>

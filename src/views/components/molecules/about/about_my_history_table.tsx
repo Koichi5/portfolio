@@ -57,7 +57,21 @@ const AboutMyHistoryTable = () => {
       <TableItem
         keyValue={"2023. 4"}
         Value={
-          "Flutter を用いた個人開発で情報科目学習サポートアプリ「Tech Journey」をリリース"
+          "Flutter を用いた個人開発で情報科目学習サポートアプリ「Tech Journey」を Google Play ストアへリリース"
+        }
+        paddingBetween={200}
+      />
+      <TableItem
+        keyValue={"2023. 5 -"}
+        Value={
+          "株式会社はんぽさき にて Flutter エンジニアとしてチーム開発を経験"
+        }
+        paddingBetween={200}
+      />
+      <TableItem
+        keyValue={"2023. 7"}
+        Value={
+          "Swift を用いた個人開発で買い物サポートアプリ「買い物ナビ」を App Store へリリース"
         }
         paddingBetween={200}
       />

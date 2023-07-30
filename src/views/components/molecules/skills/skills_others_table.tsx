@@ -12,6 +12,8 @@ const SkillsOthersTable = () => {
       />
       <TableItem keyValue={"GitHub"} Value={"★ ★ ★ ★ ☆"} paddingBetween={200} />
       <TableItem keyValue={"Slack"} Value={"★ ★ ★ ★ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"Figma"} Value={"★ ★ ★ ☆ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"Canva"} Value={"★ ★ ★ ☆ ☆"} paddingBetween={200} />
       <TableItem
         keyValue={"Blender"}
         Value={"★ ★ ★ ☆ ☆"}

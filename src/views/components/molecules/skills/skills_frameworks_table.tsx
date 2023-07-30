@@ -16,30 +16,15 @@ const SkillsFrameworksTable = () => {
         paddingBetween={200}
       />
       <TableItem
-        keyValue={"ARKit"}
+        keyValue={"Reality Composer Pro"}
         Value={"★ ★ ☆ ☆ ☆"}
         paddingBetween={200}
       />
-      <TableItem
-        keyValue={"UIKit"}
-        Value={"★ ☆ ☆ ☆ ☆"}
-        paddingBetween={200}
-      />
-      <TableItem
-        keyValue={"React"}
-        Value={"★ ★ ☆ ☆ ☆"}
-        paddingBetween={200}
-      />
-      <TableItem
-        keyValue={"Numpy"}
-        Value={"★ ★ ★ ☆ ☆"}
-        paddingBetween={200}
-      />
-      <TableItem
-        keyValue={"Pandas"}
-        Value={"★ ★ ★ ☆ ☆"}
-        paddingBetween={200}
-      />
+      <TableItem keyValue={"ARKit"} Value={"★ ★ ☆ ☆ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"UIKit"} Value={"★ ☆ ☆ ☆ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"React"} Value={"★ ★ ☆ ☆ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"Numpy"} Value={"★ ★ ★ ☆ ☆"} paddingBetween={200} />
+      <TableItem keyValue={"Pandas"} Value={"★ ★ ★ ☆ ☆"} paddingBetween={200} />
       <TableItem
         keyValue={"TensorFlow"}
         Value={"★ ★ ☆ ☆ ☆"}
