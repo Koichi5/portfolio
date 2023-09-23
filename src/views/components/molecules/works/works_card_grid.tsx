@@ -139,6 +139,18 @@ const cards = [
     secondContent:
       "現在継続中のインターンであり、主な業務内容としては、新機能の追加やバグ修正、UI修正などです。",
   },
+  {
+    imageSrc:
+      "https://lh3.googleusercontent.com/pw/AIL4fc-akDhqRph2SiGD1R2ilN2sEbEs78bkpSMsDdEEW3jfpk_XgPSdQzFhmoamIDRbFmPANnZSt7tBRGu9Bu8WwjQg6xJ6FIQr_EaNwkFU8ka5NLs6_PblsmXhg-7L_gSwUOSDzrDKAWRG6skAnDXRKZw7=w1200-h667-s-no?authuser=0",
+    title: "株式会社 Sansan",
+    attribute: "インターン",
+    firstContentTitle: "DETAIL",
+    firstContent:
+      "2023年8月から「Sansan Tech Internship SPARK2023」に参加しました。",
+    secondContentTitle: "POINT",
+    secondContent:
+      "座学ではプロダクト開発におけるジョブ理論の考え方やアジャイル開発、スクラム開発の基本などエンジニアとして必要な知識を身につけることができました。 \n 後半の開発期間ではFlutterを用いた開発を行い、主にフロントエンドを担当しました。\n開発では、他のメンバーと開発することでJiraを用いたタスクの管理やコードレビュー、開発に役立つTipsなど様々なことを学ぶことができました。",
+  },
 ];
 
 function WorksCardGrid() {
