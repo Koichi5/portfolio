@@ -75,6 +75,20 @@ const AboutMyHistoryTable = () => {
         }
         paddingBetween={200}
       />
+            <TableItem
+        keyValue={"2023. 8"}
+        Value={
+          "株式会社 Sansan の 「Sansan Tech Internship SPARK2023」に参加しました。"
+        }
+        paddingBetween={200}
+      />
+            <TableItem
+        keyValue={"2023. 10"}
+        Value={
+          "株式会社 リクルート のサマーインターンに参加しました。"
+        }
+        paddingBetween={200}
+      />
     </table>
   );
 };

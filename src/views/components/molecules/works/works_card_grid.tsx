@@ -119,7 +119,7 @@ const cards = [
     imageSrc:
       "https://lh3.googleusercontent.com/pw/AIL4fc-_806pvebSbxWLCDzb5Unl3bfke7nWYargwcisFkuWsLEGVYWfn3F34YhcThKnY56iv19cRfxi3Bow4kffapVqjkIGl9PawpGjd4eEiA-7bO27PN4xXWuzbHrlA-isYULS0WV9jglj9VSOrzf23zkw=w867-h739-s-no?authuser=0",
     title: "株式会社 Wanderlust",
-    attribute: "インターン",
+    attribute: "開発インターン",
     firstContentTitle: "DETAIL",
     firstContent:
       "2023年2月から5月までの3ヶ月間モバイルアプリケーションエンジニアとして、Flutterを用いて、位置情報共有アプリLocketの開発に携わりました。",
@@ -131,7 +131,7 @@ const cards = [
     imageSrc:
       "https://lh3.googleusercontent.com/pw/AIL4fc92rp_sz3SdziwfYnM1EzN23uw9uhiSmgW7OesmAahfbbOLMMcoJcwXWuhq-EKQTsG89jeJv2wzAB2KauynOmw8soJY94s68x2xY5rwPI_qF7tYLZm_o7QF0AIiGvE76bjLrXXuQme9KZhqzSOAbO9-=w940-h788-s-no?authuser=0",
     title: "株式会社 はんぽさき",
-    attribute: "インターン",
+    attribute: "開発インターン",
     firstContentTitle: "DETAIL",
     firstContent:
       "2023年5月までのモバイルアプリケーションエンジニアとして、Flutterを用いて、地図アプリLivMapの開発に携っています。",
@@ -143,13 +143,24 @@ const cards = [
     imageSrc:
       "https://lh3.googleusercontent.com/pw/AIL4fc-akDhqRph2SiGD1R2ilN2sEbEs78bkpSMsDdEEW3jfpk_XgPSdQzFhmoamIDRbFmPANnZSt7tBRGu9Bu8WwjQg6xJ6FIQr_EaNwkFU8ka5NLs6_PblsmXhg-7L_gSwUOSDzrDKAWRG6skAnDXRKZw7=w1200-h667-s-no?authuser=0",
     title: "株式会社 Sansan",
-    attribute: "インターン",
+    attribute: "サマーインターン",
     firstContentTitle: "DETAIL",
     firstContent:
       "2023年8月から「Sansan Tech Internship SPARK2023」に参加しました。",
     secondContentTitle: "POINT",
     secondContent:
       "座学ではプロダクト開発におけるジョブ理論の考え方やアジャイル開発、スクラム開発の基本などエンジニアとして必要な知識を身につけることができました。 \n 後半の開発期間ではFlutterを用いた開発を行い、主にフロントエンドを担当しました。\n開発では、他のメンバーと開発することでJiraを用いたタスクの管理やコードレビュー、開発に役立つTipsなど様々なことを学ぶことができました。",
+  },
+  {
+    imageSrc:
+      "https://lh3.googleusercontent.com/pw/ABLVV85BaNFtvHU4TPOC3dNZtgbasaUQJibXGNSftCriOWZDNtpHxjRsJ67QfitiIFeMcCrVVm-mcII4LWkO2TittA_4sz_88GhmPvC5uY4gRKgt4fWYeusNRMAaIKnmhq7ecwJV2ENWNTcRPzUN48gmclZb=w1280-h720-s-no-gm?authuser=0",
+    title: "株式会社 リクルート",
+    attribute: "就業型サマーインターン",
+    firstContentTitle: "DETAIL",
+    firstContent:
+      "2023年10月から1ヶ月半ほど参加しました。",
+    secondContentTitle: "POINT",
+    secondContent: "詳細については公表できませんが、今まで触れていなかった技術に触れることができました。メンターさんやメンバーの方々の支えもあり、いろいろな方のお話を伺うことができ、今後の開発の軸になるような考え方も得られ、非常に貴重な経験でした。",
   },
 ];
 
